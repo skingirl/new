@@ -1,2 +1,2 @@
 # new
-Just another repository
+hello world! (потому что я так хочу)
